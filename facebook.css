@@ -1,0 +1,160 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+.top{
+
+    height: 70px;
+    width: 100%;
+    color: white;
+    font-family:  Helvetica, Arial, sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    background-color: #3b5998;
+    padding-left: 150px; 
+    padding-top: 50px;  
+}
+.boxes1{
+    position: relative;
+    z-index:1;
+    margin-top: -100px;
+    font-family: Arial;
+    color: white;
+    line-height: 30px;
+    padding-left: 800px;
+
+}
+.boxes2{
+    position: relative;
+    margin-top: -90px;
+    font-family: Arial;
+    color: white;
+    line-height: 30px;
+    padding-left: 1010px;
+    margin-bottom: 40px;
+}
+.button{
+    position: absolute;
+    top :54px;
+    left: 1220px;
+    color: white;
+    font-weight: bold;
+    background-color: #4267B2;
+}
+.start{
+    height: 550px;
+    width: 100%;
+    padding-left: 150px; 
+    font-weight:550;
+    color: #143988;
+    font-family:  Helvetica, Arial, sans-serif;
+    font-size: 25px;
+    background: linear-gradient(to bottom , 
+    #ffffff 7%, #f5f7fb 30%, #e1e5ef 70%, #eaecf4 100% ); 
+}
+img{
+    position: absolute;
+    height: 30%;
+    width: 40%;
+    top: 220px;  
+    left: 110px;
+}
+
+.right_side1{
+    line-height: 40px;
+    position: absolute;
+    font-family: Arial;
+    top: 150px;
+    padding-left: 790px;
+    div{
+     font-size: 26px;
+     font-weight: bold;
+    }
+}
+.right_side1 > input {
+
+    width: 160px;
+    height: 15px;
+    font-size: 15px;
+    padding: 10px;
+}
+.right_side2{
+    line-height: 50px;
+    position: absolute;
+    font-family: Arial;
+    top: 269.9px;
+    padding-left: 790px;
+}
+.right_side2 > input {
+
+    width: 350px;
+    height: 15px;
+    font-size: 15px;
+    padding: 10px;
+    
+}
+p2{
+    position: absolute;
+    padding-left: 789px;
+    top: 420px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.birthday {
+    position: absolute;
+    right: 501px; 
+    top: 450px;
+}
+.birthday select {
+    padding: 7px 1px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 3px;
+}
+.why{
+    font-size: 12px;
+    left: 975px; 
+    top: 450px; 
+    position: absolute; 
+    right: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 17px;
+    color: #3b5998; 
+}
+.gender{
+    font-size: 21px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 550;
+    position: absolute;
+    right: 520px; 
+    top: 500px;
+}
+.conditions{
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 17px;
+    position: absolute; 
+    right: 350px;
+    top: 540px;
+    color: gray;
+}
+.button2{
+    position: absolute;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 570;
+    font-size:20px;
+    background-color: rgb(39, 163, 39);
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    border-width: 1px;
+    right: 480px;
+    top: 590px;
+
+}
+
+
+
